@@ -1,10 +1,10 @@
 # IMAGE REDUCER
 
-## Description
+## *Description*
 
 This is a script used for optimization of images. It is used for thumbnailing pictures while retaining the original quality of the picture.
 
-## Requirements
+## *Requirements*
 
 The requirements for this script are:
 
@@ -12,4 +12,4 @@ The requirements for this script are:
 
 2. PIL(Pillow) == 1.1.7.
 
-## Instructions
+## *Instructions*
