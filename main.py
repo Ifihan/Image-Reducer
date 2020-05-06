@@ -13,4 +13,4 @@ for image in os.listdir(img_folder):
     clean = os.path.splitext(image)[0]
     img.thumbnail((500, 500))
     img.save(f'{output_folder}{clean}.png', 'png')
-    print('all done')
+print('All done!')
