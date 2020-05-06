@@ -18,7 +18,7 @@ The requirements for this script are:
 
 3. Run the command `python main.py name of folder to be thumbaniled\ name of new directory\`.
 
-Example: ![](img src="example.png")
+Example: ![](example.png)
 
 
  *Hint*
