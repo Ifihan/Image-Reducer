@@ -1,4 +1,4 @@
-# IMAGE REDUCER
+# Image Reducer
 
 This is a script used for optimization of images. It is used for thumbnailing pictures while retaining the original quality of the picture.
 
@@ -20,6 +20,5 @@ The requirements for this script are:
 
 Example: ![](example.png)
 
-
- *Hint*
+*Hint:*
 You can change the dimension in the main.py file.
